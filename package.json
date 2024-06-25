@@ -1,0 +1,23 @@
+{
+  "name": "playwright_cerven2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/playwright_cerven2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/playwright_cerven2024/issues"
+  },
+  "homepage": "https://github.com/tredgate/playwright_cerven2024#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.8"
+  }
+}
